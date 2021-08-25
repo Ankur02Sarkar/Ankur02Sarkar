@@ -13,19 +13,19 @@
 
 </br>
 
-<a href="https://www.linkedin.com/in/ankur-sarkar">
+<a href="https://www.linkedin.com/in/ankur-sarkar" target="_blank">
   <img align="left" width="24px" src="https://i.ibb.co/drvwWtB/Linkedin.png"  />
 </a>
 <a href="mailto:sarkarrohonankur@gmail.com">
   <img align="left" width="24px" src="https://i.ibb.co/bPCr08L/Email.png"  />
 </a>
-<a href="https://www.hackerrank.com/God_Slayer">
+<a href="https://www.hackerrank.com/God_Slayer" target="_blank">
   <img align="left" width="24px" src="https://i.ibb.co/6WCLSb2/Hacker-Rank.png"  />
 </a>
-<a href="https://www.hackerearth.com/@God_Slayer">
+<a href="https://www.hackerearth.com/@God_Slayer" target="_blank">
   <img align="left" width="24px" src="https://i.ibb.co/kGQCpVC/hackerearth.png"  />
 </a>
-<a href="https://www.codechef.com/users/ankur02sarkar">
+<a href="https://www.codechef.com/users/ankur02sarkar" target="_blank">
   <img align="left" width="24px" src="https://i.ibb.co/9Yr67f9/CodeChef.png"  />
 </a>
 
