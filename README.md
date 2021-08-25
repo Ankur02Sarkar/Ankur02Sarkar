@@ -41,12 +41,12 @@
 <br />
 
 ### My Experiences 🙌
-- [Internshala Student Partner](https://www.cncf.io/people/ambassadors/)
-- [Brand Ambassador at Tutedude](https://www.cncf.io/people/ambassadors/)
-- [REACH Technologies Student Partner](https://www.cncf.io/people/ambassadors/)
-- [Summer Volunteer at Red Dot SafeCity](https://www.cncf.io/people/ambassadors/)
-- [Campuss Ambassador at Careers 360](https://www.cncf.io/people/ambassadors/)
-- [Campuss Ambassador at Collegedunia](https://www.cncf.io/people/ambassadors/)
+- [Internshala Student Partner](https://internshala.com/)
+- [Brand Ambassador at Tutedude](https://tutedude.com/)
+- [REACH Technologies Student Partner](https://www.reach-tech.com/)
+- [Summer Volunteer at Red Dot SafeCity](https://www.safecity.in/)
+- [Campuss Ambassador at Careers 360](https://www.careers360.com/)
+- [Campuss Ambassador at Collegedunia](https://collegedunia.com/)
 
 <br />
 
