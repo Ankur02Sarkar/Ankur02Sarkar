@@ -1,5 +1,8 @@
 # Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px">
 
+**Visitors Count** 
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar)
 
 <br />
 
@@ -65,11 +68,7 @@
 
 </div>
 
-<div align = "center">
- 
-**Visitors Count** 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar) </div>
 
 # ⭐ Stats 
 <div align="center">
