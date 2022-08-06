@@ -3,8 +3,8 @@
 
 <br />
 
-# About Me 🐉
-   I'm a 3rd Year UnderGrad Pursuing B.Tech from JIS College of Engineering, Kalyani
+# I am 🐉
+👨🏽‍💻 A Web Developer <br> 🎓A 3rd Year UnderGrad pursuing B.Tech in ECE <br>🌱 Currently learning Data Structures and Algorithms <br>⌨ Here's my [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) Profile
 </br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -72,6 +72,14 @@
 <div align="center">
 
 [![My GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ankur02sarkar&theme=xcode)](https://github.com/ankur02sarkar) 
+<br>
+
+</div>
+
+# ⭐ GeeksForGeeks Profile 
+<div align="center">
+
+[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ankur02sarkar)](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile)
 <br>
 
 </div>
