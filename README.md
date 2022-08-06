@@ -7,7 +7,7 @@
 👨🏽‍💻 A Web Developer <br> 🎓A 3rd Year UnderGrad pursuing B.Tech in ECE <br>🌱 Currently learning Data Structures and Algorithms <br>⌨ Here's my [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) Profile
 </br>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 # 🌐 My Socials:
 <a href="https://www.linkedin.com/in/ankur-sarkar" target="_blank">
@@ -29,6 +29,9 @@
 <br/>
 
 # 💻 Skills I'm Familiar With:
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <p align="left">
    <a href="https://getbootstrap.com" target="_blank"> 
       <img src="bootstrap.png" alt="bootstrap" width="40" height="40"/>        </a>
