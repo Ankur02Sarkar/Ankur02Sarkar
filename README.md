@@ -1,10 +1,7 @@
 # Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px">
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar)
-
 <br />
-
-# I am 🐉
+# 🐉 I am 
 👨🏽‍💻 A Web Developer <br> 🎓A 3rd Year UnderGrad pursuing B.Tech in ECE <br>🌱 Currently learning Data Structures and Algorithms <br>⌨ Here's my [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) Profile
 </br>
 
