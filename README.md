@@ -35,30 +35,26 @@
 
 <p align="left">
    <a href="https://getbootstrap.com" target="_blank"> 
-      <img src="bootstrap.png" alt="bootstrap" width="40" height="40"/>        </a>
-  <br/>
-   <a href="https://www.cprogramming.com/" target="_blank">
-      <img src="c.png" alt="c" width="40" height="40"/>
+      <img src="bootstrap.png" alt="bootstrap" width="120" height="120"/>        
    </a>
-  <br/>
+   <a href="https://www.cprogramming.com/" target="_blank">
+      <img src="c.png" alt="c" width="120" height="120"/>
+   </a>
    <a href="https://www.w3schools.com/cpp/" target="_blank">
-      <img src="cpp.png" alt="cplusplus" width="40" height="40"/>
+      <img src="cpp.png" alt="cplusplus" width="120" height="120"/>
    </a>
   <br/>
    <a href="https://www.w3schools.com/css/" target="_blank">
-      <img src="css.png" alt="css3" width="40" height="40"/>
+      <img src="css.png" alt="css3" width="120" height="120"/>
    </a>
-  <br/>
    <a href="https://www.w3.org/html/" target="_blank">
-      <img src="html.png" alt="html5" width="40" height="40"/>
+      <img src="html.png" alt="html5" width="120" height="120"/>
    </a>
-  <br/>
    <a href="https://www.mysql.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="120"/>
    </a>
-  <br/>
    <a href="https://www.python.org" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="120" height="120"/>
    </a>
   <br/>
  </p>
