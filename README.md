@@ -36,12 +36,10 @@
       <img src="c.png" alt="c" width="120" height="120"/>
       <img src="cpp.png" alt="cplusplus" width="120" height="120"/>
       <img src="css.png" alt="css3" width="120" height="120"/>
-  <br/>
       <img src="html.png" alt="html5" width="120" height="120"/>
       <img src="javascript.png" alt="js" width="120" height="120"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="120" height="120"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="120" height="120"/>
-  <br/>
  </p>
 <br/>
 
