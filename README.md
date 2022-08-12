@@ -1,8 +1,14 @@
 # Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar)
 <br />
-# 🐉 I am 
-👨🏽‍💻 A Web Developer <br> 🎓A 3rd Year UnderGrad pursuing B.Tech in ECE <br>🌱 Currently learning Data Structures and Algorithms <br>⌨ Here's my [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) Profile
+# 🐉 Who am I
+👨🏽‍💻 I'm A Web Developer 
+<br> 
+🎓 I'm A 3rd Year UnderGrad pursuing B.Tech in ECE 
+<br>
+🌱 I'm Currently learning Data Structures and Algorithms 
+<br>
+⌨ Here's my [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) Profile
 </br>
 
 
@@ -18,8 +24,8 @@
 <a href="https://www.hackerrank.com/God_Slayer" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/6WCLSb2/Hacker-Rank.png"  />
 </a>
-<a href="https://www.hackerearth.com/@God_Slayer" target="_blank">
-  <img align="left" width="42px" src="https://i.ibb.co/kGQCpVC/hackerearth.png"  />
+<a href="https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile" target="_blank">
+  <img align="left" width="42px" src="gfg.png"  />
 </a>
 <a href="https://www.codechef.com/users/ankur02sarkar" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/9Yr67f9/CodeChef.png"  />
