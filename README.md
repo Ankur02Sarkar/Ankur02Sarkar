@@ -8,6 +8,7 @@
 
 
 # 🌐 My Socials:
+<div align="center">
 <a href="https://www.linkedin.com/in/ankur-sarkar" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/drvwWtB/Linkedin.png"  />
 </a>
@@ -23,15 +24,15 @@
 <a href="https://www.codechef.com/users/ankur02sarkar" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/9Yr67f9/CodeChef.png"  />
 </a>
-
+</div>
 <br/>
 <br/>
 
 # 💻 Skills I'm Familiar With:
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
+<p align="center">
       <img src="bootstrap.png" alt="bootstrap" width="120" height="120"/>    
       <img src="c.png" alt="c" width="120" height="120"/>
       <img src="cpp.png" alt="cplusplus" width="120" height="120"/>
