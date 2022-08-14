@@ -35,9 +35,9 @@
 <br/>
 
 # 💻 Skills I'm Familiar With:
-
+<div align="center" >
 <img align="center" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
+</div>
 <p align="center">
       <img src="bootstrap.png" alt="bootstrap" width="120" height="120"/>    
       <img src="c.png" alt="c" width="120" height="120"/>
