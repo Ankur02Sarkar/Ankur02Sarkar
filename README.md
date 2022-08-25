@@ -5,6 +5,7 @@
 ```javascript
 const ankur = {
     pronouns: "He" | "Him",
+    gradBatch : ["2020 - 2024"],
     languages: ["Javascript", "Python", "C", "Dart", "C++"],
     askMeAbout: ["Web Dev", "Tech", "Flutter Dev", "UI/UX", "Anime"],
     technologies: {
@@ -83,11 +84,11 @@ const ankur = {
 <br>
 
 </div>
-
+<!-- 
 # ⭐ GeeksForGeeks Profile 
 <div align="center">
 
-[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ankur02sarkar)](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile)
+[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ankur02sarkar)](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) -->
 <br>
 
 </div>
