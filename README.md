@@ -1,14 +1,29 @@
-# Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://cdn.discordapp.com/emojis/558719629967491094.gif" height="35px">
+# Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="35px">
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar)
 <br />
-# 🐉 Who am I
-👨🏽‍💻 I'm A Web Developer 
-<br> 
-🎓 I'm A 3rd Year UnderGrad pursuing B.Tech in ECE 
-<br>
-🌱 I'm Currently learning Data Structures and Algorithms 
-<br>
-⌨ Here's my [GeeksForGeeks](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) Profile
+# 🐉 About Me
+```javascript
+const ankur = {
+    pronouns: "He" | "Him",
+    languages: ["Javascript", "Python", "C", "Dart", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "Flutter Dev", "UI/UX", "Anime"],
+    technologies: {
+        backEnd: {
+            js: [ "NodeJS", "ExpressJS"],
+            python: ["Django"]
+        },
+        frontEnd: {
+            js: ["ReactJS"],
+            css: ["TailwindCSS", "Bootstrap"]
+        },
+        databases: ["MySQL"],
+        others: ["Firebase", "BlockChain"]
+    },
+    systemDesign: ["Low Level"],
+    currentFocus: ["Web Development", "Flutter App Development"],
+    funFact: "If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be."
+};
+```
 </br>
 
 
