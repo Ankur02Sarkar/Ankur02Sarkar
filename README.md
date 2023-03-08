@@ -80,7 +80,7 @@ const ankur = {
 # ⭐ Stats 
 <div align="center">
 
-[![My GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ankur02sarkar&theme=xcode)](https://github.com/ankur02sarkar) 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur02sarkar)]
 <br>
 
 </div>
