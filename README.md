@@ -69,21 +69,21 @@ const ankur = {
 # 📊 GitHub Stats:
 <div align="center" width=100%>
 
-![](https://github-readme-stats.vercel.app/api?username=ankur02sarkar&theme=prussian&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankur02sarkar&theme=prussian&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur02sarkar&theme=prussian&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur02sarkar)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankur02sarkar&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur02sarkar&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
 
 
-# ⭐ Stats 
+<!-- # ⭐ Stats 
 <div align="center">
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur02sarkar)]
+
 <br>
 
-</div>
+</div> -->
 <!-- 
 # ⭐ GeeksForGeeks Profile 
 <div align="center">
