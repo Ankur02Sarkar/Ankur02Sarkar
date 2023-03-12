@@ -10,22 +10,22 @@
 const ankur = {
     pronouns: "He" | "Him",
     gradBatch : ["2020 - 2024"],
-    languages: ["Javascript", "Python", "C", "Dart", "C++"],
-    askMeAbout: ["Web Dev", "Tech", "Flutter Dev", "UI/UX", "Anime"],
+    languages: ["Javascript", "Python", "C++"],
+    askMeAbout: ["Web Dev", "Tech", "Flutter Dev", "UI/UX", "Anime", "Api"],
     technologies: {
         backEnd: {
             js: [ "NodeJS", "ExpressJS"],
-            python: ["Django"]
+            python: ["Flask"]
         },
         frontEnd: {
             js: ["ReactJS"],
             css: ["TailwindCSS", "Bootstrap"]
         },
-        databases: ["MySQL"],
-        others: ["Firebase", "BlockChain"]
+        databases: ["MySQL","Firebase","MongoDB"],
+        others: ["DevOPS", "BlockChain"]
     },
     systemDesign: ["Low Level"],
-    currentFocus: ["Web Development", "Flutter App Development"],
+    currentFocus: ["Full Stack Development", "UI/UX"],
     funFact: "If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be."
 };
 ```
