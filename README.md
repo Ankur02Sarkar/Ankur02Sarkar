@@ -1,5 +1,8 @@
 # Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="35px">
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar)
+<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar) -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar" width="320px">
+</div>
 <br />
 # 🐉 About Me
 ```javascript
