@@ -15,18 +15,16 @@ const ankur = {
     technologies: {
         backEnd: {
             js: [ "NodeJS", "ExpressJS"],
-            python: ["Flask"]
+            python: ["Flask", "FastAPI"]
         },
         frontEnd: {
-            js: ["ReactJS"],
+            js: ["ReactJS", "NextJS"],
             css: ["TailwindCSS", "Bootstrap"]
         },
-        databases: ["MySQL","Firebase","MongoDB"],
-        others: ["DevOPS", "BlockChain"]
+        databases: ["MySQL", "Firebase", "MongoDB"],
+        others: ["DevOPS", "BlockChain", "Shadcn", "Clerk"]
     },
-    systemDesign: ["Low Level"],
-    currentFocus: ["Full Stack Development", "UI/UX"],
-    funFact: "If you don’t like your destiny, don’t accept it. Instead have the courage to change it the way you want it to be."
+    systemDesign: ["Low Level"]
 };
 ```
 
