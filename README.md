@@ -1,5 +1,4 @@
-# Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="35px">
-
+# Hello, I'm [Ankur!](https://ankursarkar.tech)  <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="35px">
 <br />
 
 # 🐉 About Me
