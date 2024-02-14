@@ -1,8 +1,5 @@
 # Hello, I'm [Ankur!](https://ankursarkar.me)  <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="35px">
-<!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar) -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ankur02sarkar" width="230px">
-</div>
+
 <br />
 
 # 🐉 About Me
@@ -37,7 +34,7 @@ const ankur = {
 <a href="https://www.linkedin.com/in/ankur-sarkar" target="_blank">
   <img align="left" width="42px" src="https://i.ibb.co/drvwWtB/Linkedin.png"  />
 </a>
-<a href="mailto:sarkarrohonankur@gmail.com">
+<a href="mailto:ankur02sarkar@gmail.com">
   <img align="left" width="42px" src="https://i.ibb.co/bPCr08L/Email.png"  />
 </a>
 <a href="https://www.hackerrank.com/God_Slayer" target="_blank">
