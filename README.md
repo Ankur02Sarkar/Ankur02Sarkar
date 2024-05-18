@@ -66,28 +66,21 @@ const ankur = {
 <br/>
 
 # 📊 GitHub Stats:
-<div align="center" width=100%>
+<div align="center" width="100%">
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur02sarkar)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ankur02sarkar&hide_border=true)<br/>
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ankur02sarkar)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankur02sarkar&hide_border=true)
+[![Ankur02Sarkar's GitHub | Stats](https://stats.quine.sh/Ankur02Sarkar/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ankur02Sarkar)
+[![Ankur02Sarkar's GitHub | Dependencies](https://stats.quine.sh/Ankur02Sarkar/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ankur02Sarkar)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankur02sarkar&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 </div>
 
-
-
-<!-- # ⭐ Stats 
-<div align="center">
-
-
-<br>
-
-</div> -->
-<!-- 
 # ⭐ GeeksForGeeks Profile 
 <div align="center">
 
-[![My GfG stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ankur02sarkar)](https://auth.geeksforgeeks.org/user/ankurrohonsarkar/profile) -->
-<br>
+![Ankur02Sarkar's GFG Stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=ankurrohonsarkar)
+
+<br/>
 
 </div>
