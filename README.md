@@ -17,6 +17,52 @@
 
 ---
 
+## 🐉 About Me <img src="https://media.giphy.com/media/iIqmM5tTgpsNQ/giphy.gif" height="28">
+
+```javascript
+const ankur = {
+    pronouns: ["He", "Him"],
+    gradBatch: ["2020 - 2024"],
+    languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
+    askMeAbout: [
+        "Full Stack Development",
+        "Web Development",
+        "App Development",
+        "UI/UX",
+        "API Development",
+        "Automation",
+        "Web Scraping",
+        "Cloud Services",
+        "Anime" // keeping your vibe alive!
+    ],
+    technologies: {
+        backEnd: {
+            js: ["NodeJS", "ExpressJS"],
+            python: ["FastAPI"],
+            others: ["AWS", "Automation Scripts", "Extensions Development"]
+        },
+        frontEnd: {
+            js: ["ReactJS", "NextJS", "React Native", "VueJS"],
+            css: ["TailwindCSS", "ShadcnUI", "Bootstrap"]
+        },
+        databases: ["MongoDB", "SQL", "Firebase"],
+        tools: ["Git", "Figma", "Cloudinary", "Stripe", "Clerk", "Liveblocks", "Convex DB"],
+        devOps: ["AWS Deployment Pipelines"],
+    },
+    systemDesign: ["Low Level", "Real-Time Collaboration", "PWA Architecture"],
+    achievements: [
+        "Winner - Diversion Hackathon (Replit & 5ireLabs Track)",
+        "Web Dev Lead - GDSC JISCE (200+ students impacted)",
+        "Winner - Wonderathon AR Hackathon"
+    ],
+    portfolio: "https://ankur-sarkar.vercel.app",
+    github: "https://github.com/Ankur02Sarkar",
+    linkedin: "https://linkedin.com/in/ankur-sarkar"
+};
+```
+
+---
+
 ## 🚀 Skills & Tech Stack <img src="https://media.giphy.com/media/iIqmM5tTgpsNQ/giphy.gif" height="28">
 <p align="center" style="overflow-x: auto;">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="28">
