@@ -17,7 +17,7 @@
 
 ---
 
-## 🐉 About Me <img src="https://media.giphy.com/media/iIqmM5tTgpsNQ/giphy.gif" height="28">
+## 🐉 About Me <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" height="28">
 
 ```javascript
 const ankur = {
@@ -63,7 +63,7 @@ const ankur = {
 
 ---
 
-## 🚀 Skills & Tech Stack <img src="https://media.giphy.com/media/iIqmM5tTgpsNQ/giphy.gif" height="28">
+## 🚀 Skills & Tech Stack <img src="https://media.giphy.com/media/U2MB1tuNQ6C72zJays/giphy.gif" height="28">
 <p align="center" style="overflow-x: auto;">
   <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="28">
   <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="28">
@@ -111,7 +111,7 @@ const ankur = {
 
 ---
 
-## 🥇 Achievements <img src="https://media.giphy.com/media/1oF1KAEYvmXBb3v6cA/giphy.gif" height="28">
+## 🥇 Achievements <img src="https://media.giphy.com/media/ucIShAl2JjOVO/giphy.gif" height="28">
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=250&color=ecbe4f&width=320&lines=Hackathon+Winner;WebDev+Lead+at+GDSC;Wonderathon+Winner" alt="Achievements Animation Typing">
 </div>
@@ -123,7 +123,7 @@ const ankur = {
 
 ---
 
-## 🎓 Education <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" height="28">
+## 🎓 Education <img src="https://media.giphy.com/media/6xcV0R3qLv97DDBZS2/giphy.gif" height="28">
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=250&color=38c91c&center=true&width=320&lines=B.Tech+%7C+ECE+%7C+CGPA+8.79" alt="Education Animation Typing" />
 </p>
@@ -133,7 +133,7 @@ JIS College Of Engineering, <b>CGPA: 8.79</b>
 
 ---
 
-## 📈 GitHub Stats <img src="https://media.giphy.com/media/1oF1KAEYvmXBb3v6cA/giphy.gif" height="28">
+## 📈 GitHub Stats <img src="https://media.giphy.com/media/CtqI1GmvT0YVO/giphy.gif" height="28">
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankur02sarkar&theme=flat"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur02sarkar&hide_border=true"/>
@@ -142,7 +142,7 @@ JIS College Of Engineering, <b>CGPA: 8.79</b>
 
 ---
 
-## 🗂️ My Repositories <img src="https://media.giphy.com/media/WTp1D9F3XaYwLbQjnx/giphy.gif" height="28">
+## 🗂️ My Repositories <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif" height="28">
 <p align="center">
   <a href="https://github.com/Ankur02Sarkar?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repos-333?style=for-the-badge&logo=github" height="34" alt="Go to my Repositories">
@@ -151,7 +151,7 @@ JIS College Of Engineering, <b>CGPA: 8.79</b>
 
 ---
 
-## ✉️ Contact <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="28">
+## ✉️ Contact <img src="https://media.giphy.com/media/GFeFpm1jZZD0m4wlQ3/giphy.gif" height="28">
 <ul>
   <li>Email: <a href="mailto:ankur02sarkar@gmail.com">ankur02sarkar@gmail.com</a></li>
   <li>Portfolio: <a href="https://ankur-sarkar.vercel.app">ankur-sarkar.vercel.app</a></li>
