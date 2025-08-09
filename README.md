@@ -136,8 +136,9 @@ JIS College Of Engineering, <b>CGPA: 8.79</b>
 ## 📈 GitHub Stats <img src="https://media.giphy.com/media/CtqI1GmvT0YVO/giphy.gif" height="28">
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ankur02sarkar&theme=flat"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankur02sarkar&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankur02sarkar&hide_border=true&include_all_commits=true&count_private=false&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankur02Sarkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur02Sarkar&theme=vue-dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur02Sarkar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 ---
