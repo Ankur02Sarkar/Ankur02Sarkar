@@ -18,6 +18,9 @@
     <a href="mailto:ankur02sarkar@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://x.com/ankurships">
+      <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    </a>
   </p>
   <p>
     <img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge" alt="AI Engineer" />
@@ -65,7 +68,7 @@ const ankur = {
     databases: ["MongoDB", "SQL", "Firebase"],
     tools: ["Git", "Figma", "Cloudinary", "Stripe", "Clerk", "Liveblocks", "Convex"],
     devOps: ["AWS Deployment Pipelines"],
-    others: ["Chromium Extensions Development"],
+    others: ["Chromium Extensions Development (Plasmo, WXT, Vite, Vanilla)"],
   },
   systemDesign: ["Real-Time Collaboration", "PWA Architecture", "Scalable Product Systems"],
   achievements: [
@@ -113,6 +116,16 @@ const ankur = {
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square" alt="shadcn/ui" />
   <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/PWA-5B21B6?style=flat-square&logo=pwa&logoColor=white" alt="PWA" />
+</p>
+
+### Browser Extensions
+<p>
+  <img src="https://img.shields.io/badge/Chromium%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="Chromium Extensions" />
+  <img src="https://img.shields.io/badge/Plasmo-7C3AED?style=flat-square" alt="Plasmo" />
+  <img src="https://img.shields.io/badge/WXT-16A34A?style=flat-square" alt="WXT" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Vanilla%20JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="Vanilla JS" />
 </p>
 
 ### Backend
@@ -219,6 +232,9 @@ Kalyani, India | Oct 2020 - May 2024
   </a>
   <a href="mailto:ankur02sarkar@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://x.com/ankurships">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
   <a href="https://github.com/Ankur02Sarkar?tab=repositories">
     <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
