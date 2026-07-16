@@ -1,165 +1,230 @@
-<!-- Animated Banner -->
-<p align="center">
-  <img src="https://c.tenor.com/3IACtMvxwdsAAAAi/pikachu-happy.gif" height="60px" alt="Animated welcome GIF">
-</p>
-<h1 align="center">
-  Hi, I'm <a href="https://ankur-sarkar.vercel.app">Ankur Sarkar</a> 👋
-</h1>
-<p align="center">
-  <a href="https://linkedin.com/in/ankur-sarkar"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin" alt="LinkedIn"></a>
-  <a href="mailto:ankur02sarkar@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail" alt="Gmail"></a>
-  <a href="https://github.com/Ankur02Sarkar"><img src="https://img.shields.io/badge/GitHub-333?logo=github" alt="GitHub"></a>
-  <a href="https://ankur-sarkar.vercel.app"><img src="https://img.shields.io/badge/Portfolio-brightgreen?logo=vercel" alt="Portfolio"></a>
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2300&pause=200&color=6a12ee&center=true&vCenter=true&width=380&lines=NextJs%2BTypeScript+Engineer;UI%2FUX+Enthusiast;Open+Source+Contributor;FastAPI+Specialist;AI+Engineer" alt="Typing SVG Animation">
-</p>
+<div align="center">
+  <h1>Ankur Sarkar</h1>
+  <p><strong>AI Engineer • Full-Stack Developer • Product-Focused Builder</strong></p>
+  <p>
+    I build AI-powered products, scalable web applications, and polished user experiences
+    with a strong focus on performance, reliability, and product impact.
+  </p>
+  <p>
+    <a href="https://www.ankur.codes/en">
+      <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://github.com/Ankur02Sarkar">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://linkedin.com/in/ankur-sarkar">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:ankur02sarkar@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/AI%20Engineer-7C3AED?style=for-the-badge" alt="AI Engineer" />
+    <img src="https://img.shields.io/badge/Full--Stack%20Developer-0F766E?style=for-the-badge" alt="Full-Stack Developer" />
+    <img src="https://img.shields.io/badge/Next.js%20%26%20TypeScript-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js and TypeScript" />
+    <img src="https://img.shields.io/badge/Building%20Real%20Products-F59E0B?style=for-the-badge" alt="Building Real Products" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Ankur02Sarkar&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
+  </p>
+</div>
 
 ---
 
-## 🐉 About Me <img src="https://media.giphy.com/media/nZUcWtrNqs9Nu/giphy.gif" height="28">
+## About Me
 
 ```javascript
 const ankur = {
-    pronouns: ["He", "Him"],
-    gradBatch: ["2020 - 2024"],
-    languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
-    askMeAbout: [
-        "Full Stack Development",
-        "Web Development",
-        "App Development",
-        "UI/UX",
-        "API Development",
-        "Automation",
-        "Web Scraping",
-        "Cloud Services",
-        "Anime" // keeping your vibe alive!
-    ],
-    technologies: {
-        backEnd: {
-            js: ["NodeJS", "ExpressJS"],
-            python: ["FastAPI"],
-            others: ["AWS", "Automation Scripts", "Extensions Development"]
-        },
-        frontEnd: {
-            js: ["ReactJS", "NextJS", "React Native", "VueJS"],
-            css: ["TailwindCSS", "ShadcnUI", "Bootstrap"]
-        },
-        databases: ["MongoDB", "SQL", "Firebase"],
-        tools: ["Git", "Figma", "Cloudinary", "Stripe", "Clerk", "Liveblocks", "Convex DB"],
-        devOps: ["AWS Deployment Pipelines"],
+  pronouns: ["He", "Him"],
+  focus: ["AI Engineering", "Full-Stack Development", "Product Building"],
+  gradBatch: ["2020 - 2024"],
+  languages: ["C", "C++", "Python", "JavaScript", "TypeScript"],
+  askMeAbout: [
+    "AI Products",
+    "Full Stack Development",
+    "Next.js Applications",
+    "API Development",
+    "Automation",
+    "Web Scraping",
+    "Cloud Services",
+    "UI/UX",
+    "Anime",
+  ],
+  technologies: {
+    ai: ["Generative AI", "AI Agents", "Automation Workflows"],
+    backEnd: {
+      js: ["Node.js", "Express.js"],
+      python: ["FastAPI"],
+      others: ["REST APIs", "AWS", "Automation Scripts"],
     },
-    systemDesign: ["Low Level", "Real-Time Collaboration", "PWA Architecture"],
-    achievements: [
-        "Winner - Diversion Hackathon (Replit & 5ireLabs Track)",
-        "Web Dev Lead - GDSC JISCE (200+ students impacted)",
-        "Winner - Wonderathon AR Hackathon"
-    ],
-    portfolio: "https://ankur-sarkar.vercel.app",
-    github: "https://github.com/Ankur02Sarkar",
-    linkedin: "https://linkedin.com/in/ankur-sarkar"
+    frontEnd: {
+      js: ["React.js", "Next.js", "React Native", "Vue.js"],
+      css: ["Tailwind CSS", "shadcn/ui", "Bootstrap"],
+    },
+    databases: ["MongoDB", "SQL", "Firebase"],
+    tools: ["Git", "Figma", "Cloudinary", "Stripe", "Clerk", "Liveblocks", "Convex"],
+    devOps: ["AWS Deployment Pipelines"],
+    others: ["Chromium Extensions Development"],
+  },
+  systemDesign: ["Real-Time Collaboration", "PWA Architecture", "Scalable Product Systems"],
+  achievements: [
+    "Winner - Diversion Hackathon (Replit & 5ireLabs Track)",
+    "Web Dev Lead - GDSC JISCE (200+ students impacted)",
+    "Winner - Wonderathon AR Hackathon",
+  ],
+  currentGoal: "Build AI-powered products that solve real user problems",
+  x: "https://x.com/ankurships",
+  website: "https://www.ankur.codes/en",
+  github: "https://github.com/Ankur02Sarkar",
+  linkedin: "https://linkedin.com/in/ankur-sarkar",
 };
 ```
 
 ---
 
-## 🚀 Skills & Tech Stack <img src="https://media.giphy.com/media/U2MB1tuNQ6C72zJays/giphy.gif" height="28">
-<p align="center" style="overflow-x: auto;">
-  <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" alt="C" height="28">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++" height="28">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" height="28">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" height="28">
-  <img src="https://img.shields.io/badge/TypeScript-3178c6?logo=typescript&logoColor=white" alt="TypeScript" height="28">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" alt="React" height="28">
-  <img src="https://img.shields.io/badge/NextJS-000000?logo=nextdotjs&logoColor=white" alt="NextJS" height="28">
-  <img src="https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB" alt="React Native" height="28">
-  <img src="https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white" alt="NodeJS" height="28">
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS" height="28">
-  <img src="https://img.shields.io/badge/ShadcnUI-c2dfff?logo=react&logoColor=black" alt="ShadcnUI" height="28">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" height="28">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black" alt="Firebase" height="28">
-  <img src="https://img.shields.io/badge/Figma-000000?logo=figma&logoColor=white" alt="Figma" height="28">
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS" height="28">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git" height="28">
-  <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium" height="28">
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI" height="28">
-  <!-- Add more shields for new skills! -->
-</p>
+## Core Strengths
+
+- Building AI-enhanced products with practical, production-oriented workflows
+- Designing full-stack applications with modern frontend architecture and scalable backend systems
+- Translating product ideas into polished, deployable, user-facing experiences
+- Improving performance, developer experience, and real-world business outcomes
 
 ---
 
-## 👨‍💼 Experience <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" height="28">
+## Skills & Tools
+
+### AI / ML
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=900&pause=200&color=1de1f2&width=320&lines=React+Developer+-+RAPHAPLUS;SDE+-+Curateit;SDE+Intern+-+Tikaj+Technologies" alt="Experience Animation Typing">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/AI%20Agents-111827?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Automation-16A34A?style=flat-square" alt="Automation" />
+  <img src="https://img.shields.io/badge/Web%20Scraping-0F766E?style=flat-square" alt="Web Scraping" />
 </p>
-<ul>
-  <li><b>React Developer</b> @ RAPHAPLUS (Bengaluru, July 2024 – Present)<br>
-    <span style="color: #7599ea;">• Developed chat system, boosted sync by <b>15%</b><br>
-    • Built Doctor Consultation/PWA, +12% patient engagement<br>
-    • Responsive design, +10% retention</span>
-  </li>
-  <li><b>Software Development Engineer</b> @ CURATEIT (UK, Apr 2023 – May 2024)<br>
-    • 12+ features, +18% engagement<br>
-    • AI Assistant Bots, +12% satisfaction<br>
-    • Code/testing, bug reports -25%
-  </li>
-  <li><b>SDE Intern</b> @ TIKAJ TECHNOLOGIES (IN, Jan 2023 – Mar 2023)<br>
-    • VueJS/Linux Apps, -20% dev time<br>
-    • Pipelines for 500+ users
-  </li>
-</ul>
 
----
-
-## 🥇 Achievements <img src="https://media.giphy.com/media/ucIShAl2JjOVO/giphy.gif" height="28">
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1500&pause=250&color=ecbe4f&width=320&lines=Hackathon+Winner;WebDev+Lead+at+GDSC;Wonderathon+Winner" alt="Achievements Animation Typing">
-</div>
-<ul>
-  <li><b>Diversion Hackathon</b> (Replit, 5ireLabs) – Winner, 700+ hackers</li>
-  <li><b>WebDev Lead, GDSC JISCE</b> – Led 6 events, impacted 200+ students</li>
-  <li><b>Wonderathon Winner</b> (AR) – Created AR Filter Apps</li>
-</ul>
-
----
-
-## 🎓 Education <img src="https://media.giphy.com/media/6xcV0R3qLv97DDBZS2/giphy.gif" height="28">
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=1800&pause=250&color=38c91c&center=true&width=320&lines=B.Tech+%7C+ECE+%7C+CGPA+8.79" alt="Education Animation Typing" />
+### Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
 </p>
-<b>B.Tech, Electronics & Communication Engineering</b>  
-JIS College Of Engineering, <b>CGPA: 8.79</b>  
-<i>Kalyani, India | Oct 2020 - May 2024</i>
 
----
+### Backend
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/PWA-5B21B6?style=flat-square" alt="PWA" />
+</p>
 
-## 📈 GitHub Stats <img src="https://media.giphy.com/media/CtqI1GmvT0YVO/giphy.gif" height="28">
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankur02sarkar&theme=flat"/>
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=Ankur02Sarkar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"/> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankur02Sarkar&theme=vue-dark&hide_border=true"/> -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Ankur02Sarkar&theme=dark&hide_border=false"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankur02Sarkar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact"/>
+### Data, Cloud & Dev Tools
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square" alt="Clerk" />
+  <img src="https://img.shields.io/badge/Liveblocks-0EA5E9?style=flat-square" alt="Liveblocks" />
+  <img src="https://img.shields.io/badge/Convex-EE342F?style=flat-square" alt="Convex" />
 </p>
 
 ---
 
-## 🗂️ My Repositories <img src="https://media.giphy.com/media/ytBoIyQ7ArpRirP0oh/giphy.gif" height="28">
+## Selected Projects
+
+| Project | What It Does | Stack |
+| --- | --- | --- |
+| [MindMyJob](https://www.mindmyjob.com/) | AI job hunting platform designed to help users streamline job discovery and application workflows. | Next.js, Python |
+| [RankLens](https://ranklens-lsuj.onrender.com/) | AI SEO agent focused on improving search visibility and workflow efficiency. | Python, AI |
+| [Code Craft](https://code-craft-ankur.vercel.app/) | Turns text prompts into websites with a modern builder-style experience. | Next.js, TypeScript |
+| [GitGuru](https://gitguru.vercel.app/dashboard) | GitHub management tool built to simplify repository and developer workflows. | Next.js, TypeScript |
+| [AppointX](https://appointx.vercel.app/) | Scheduling product built for fast meeting coordination and smooth UX. | Next.js, Tailwind CSS |
+| [Bridge](https://bridgenet.vercel.app/) | Real-time collaboration app for interactive multi-user workflows. | React, Node.js |
+
+---
+
+## Experience Highlights
+
+### React Developer | RAPHAPLUS
+- Built a chat system with Firebase and improved real-time synchronization by 15%.
+- Delivered doctor consultation, health management, and PWA features for product growth.
+- Improved responsive UX patterns that helped increase user retention by 10%.
+
+### Software Development Engineer | CURATEIT
+- Shipped 12+ features that increased user engagement by 18%.
+- Improved AI assistant bot workflows and raised user satisfaction by 12%.
+- Strengthened code review and testing practices, reducing production bug reports by 25%.
+
+### SDE Intern | TIKAJ TECHNOLOGIES
+- Built Vue.js and Linux-based solutions that reduced development time by 20%.
+- Supported deployment pipelines and workflow improvements for 500+ users.
+
+---
+
+## Achievements
+
+- Winner, Diversion Hackathon in the Replit and 5ireLabs track
+- Web Development Lead at GDSC JISCE, impacting 200+ students
+- Winner, Wonderathon AR Hackathon
+
+---
+
+## GitHub Analytics
+
 <p align="center">
+  <img height="170" src="https://gitstats.ankur.codes/api?username=ankur02sarkar&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://gitstats.ankur.codes/api/top-langs?username=ankur02sarkar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ankur02sarkar&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ankur02sarkar&theme=tokyo-night&area=true&hide_border=true" alt="Contribution graph" />
+</p>
+
+---
+
+## Education
+
+**B.Tech in Electronics and Communication Engineering**  
+JIS College Of Engineering  
+CGPA: **8.79**  
+Kalyani, India | Oct 2020 - May 2024
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.ankur.codes/en">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://ankur-sarkar.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/ankur-sarkar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:ankur02sarkar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://github.com/Ankur02Sarkar?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repos-333?style=for-the-badge&logo=github" height="34" alt="Go to my Repositories">
+    <img src="https://img.shields.io/badge/View%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
   </a>
 </p>
 
----
-
-## ✉️ Contact <img src="https://media.giphy.com/media/GFeFpm1jZZD0m4wlQ3/giphy.gif" height="28">
-<ul>
-  <li>Email: <a href="mailto:ankur02sarkar@gmail.com">ankur02sarkar@gmail.com</a></li>
-  <li>Portfolio: <a href="https://ankur-sarkar.vercel.app">ankur-sarkar.vercel.app</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/ankur-sarkar">linkedin.com/in/ankur-sarkar</a></li>
-  <li>GitHub: <a href="https://github.com/Ankur02Sarkar">github.com/Ankur02Sarkar</a></li>
-</ul>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1500&pause=250&color=FF61A6&width=320&lines=Feel+Free+To+Connect!" alt="Contact Animation Typing" />
+<p>
+  <strong>Open to collaborating on AI products, full-stack web apps, and developer-focused tools.</strong>
 </p>
